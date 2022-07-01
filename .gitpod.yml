@@ -1,0 +1,13 @@
+image:
+  file: .gitpod/Dockerfile
+
+checkoutLocation: "go/src/github.com/jrbeverly/graphql-golang-note-check"
+workspaceLocation: "go/src/github.com/jrbeverly/graphql-golang-note-check"
+
+vscode:
+  extensions:
+    - golang.go
+    - ms-azuretools.vscode-docker
+    - bazelbuild.vscode-bazel
+    - hashicorp.terraform
+    - graphql.vscode-graphql
